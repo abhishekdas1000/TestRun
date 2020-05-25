@@ -1,6 +1,15 @@
 body{
-    background-image: url(https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77701450911.jpg);
+    background-color: aquamarine;
     background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
+    background-size: 200%;
+    background-attachment: fixed;
+    background-clip: content-box;
+}
+
+footer{
+    position: fixed;
+    left:0;
+    bottom:0;
+    width: 100%;
+    text-align: center;
 }
